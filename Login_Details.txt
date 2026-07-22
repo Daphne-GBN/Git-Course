@@ -1,0 +1,2 @@
+Name=StrawberryMilkshake
+Psw=lassi345
